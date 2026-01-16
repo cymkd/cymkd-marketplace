@@ -1,12 +1,17 @@
 {
   "name": "cymkd-marketplace",
-  "description": "Strategic narrative and business thinking tools",
+  "owner": {
+    "name": "cymkd"
+  },
+  "metadata": {
+    "description": "Strategic narrative and business thinking tools"
+  },
   "plugins": [
     {
       "name": "skok-storytelling",
       "version": "1.0.0",
       "description": "Master strategic narrative design using Michael Skok's A.B.C. and S.T.O.R.Y. frameworks. Stop pitching. Start moving people to action.",
-      "path": "./plugins/skok-storytelling"
+      "source": "./plugins/skok-storytelling"
     }
   ]
 }
