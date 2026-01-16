@@ -1,0 +1,7 @@
+{
+  "name": "skok-storytelling",
+  "version": "1.0.0",
+  "description": "Strategic narrative design using Michael Skok's A.B.C. and S.T.O.R.Y. frameworks",
+  "author": "cymkd",
+  "skills": ["skills/strategic-narrative.md"]
+}
