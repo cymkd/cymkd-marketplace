@@ -89,6 +89,26 @@ When helping users, follow these steps:
 - DO use "Unfair Competitive Advantage" - customers don't want efficiency, they want to crush competitors
 - DO be visceral: "Rip a hole in the sky." "Twist the knife." Not corporate jargon.
 
+## Copywriting & Website Copy
+
+**When writing headlines, landing pages, or website copy - ALWAYS lead with pain first.**
+
+Do NOT jump straight to catchy solution headlines. Follow S.T.O.R.Y. order:
+
+1. **Headline = Tension (the pain)**
+   - "Čekaš dane da saznaš kako stoji tvoja firma?"
+   - "Vodiš firmu. A ne znaš gde stojiš."
+   - "Odluke na slepo. Excel koji kasni."
+
+2. **Subheadline = Resolution (your solution)**
+   - "Poslovni rezultati - kako želiš, gde želiš, kada želiš."
+
+3. **CTA = Yes (the ask)**
+   - "Pogledaj kako" / "See how it works"
+
+**Wrong approach**: Starting with benefits or features ("Get reports faster!")
+**Right approach**: Start with the knife, then offer to remove it.
+
 ## Example Transformations
 
 **Medical Monitor - Before**: "We have sensors that monitor vital signs..."
